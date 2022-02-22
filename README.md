@@ -1,6 +1,6 @@
 my solution is @ https://mike-frontend-mentor.github.io/advice-generator-app-main/  
-
-# Frontend Mentor - Advice generator app
+  
+# Frontend Mentor - Advice generator app  
 
 ![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
 
