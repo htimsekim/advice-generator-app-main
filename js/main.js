@@ -15,7 +15,7 @@ function getAdvice() {
 }
 
 document.querySelector('.die-container').addEventListener('click', () => {
-  reload = location.reload();
+  reload = location.reload(true);
 });
 
 getAdvice();
